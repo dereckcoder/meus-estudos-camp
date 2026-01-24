@@ -28,7 +28,7 @@ Este repositório contém meus estudos, projetos e experimentos na área de Ciê
 meus-estudos-camp/
 ├── README.md              # Este arquivo
 ├── CAPABILITIES.md        # Guia de capacidades do Copilot
-└── exemplos/             # Exemplos de código (em breve)
+└── exemplos/             # Exemplos de código
 ```
 
 ## 🚀 Como Usar Este Repositório
